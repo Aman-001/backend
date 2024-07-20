@@ -1,1 +1,1 @@
-export const DB_NAME = "vivavideo"
+export const DB_NAME = "YouTweet";
